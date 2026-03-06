@@ -1,11 +1,8 @@
 <p align="center">
   <a href="https://github.com/maztt1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2793E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohamad+Ahmadzadeh+👋;Master's+Student+in+AI+@+FAU;AI+Research+Assistant;Deep+Learning+%26+3D+Point+Clouds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2793E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohamad+Ahmadzadeh+👋;Master's+Student+in+AI+@+FAU;AI+Research+Assistant;Deep+Learning+%26+3D+Point+Clouds" alt="Typing SVG" />
   </a>
 </p>
-
----
-
 ### 👨‍💻 About Me
 - 🎓 **Master's Student in Artificial Intelligence** at Friedrich-Alexander-Universität (FAU), Germany.
 - 🔬 Currently researching **3D Point Cloud Super-Resolution** (Graph Signal Processing & PyTorch).
