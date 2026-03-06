@@ -1,16 +1,13 @@
-<p align="center">
-  <a href="https://github.com/maztt1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2793E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohamad+Ahmadzadeh+👋;Master's+Student+in+AI+@+FAU;AI+Research+Assistant" alt="Typing SVG" />
-  </a>
-</p>
+# Hi there, I'm Mohamad Ahmadzadeh 👋
 
----
-<h2>👨‍💻 About Me</h2>
+**Master's Student in Artificial Intelligence @ FAU | AI Research Assistant**
 
-* 🎓 **Master's Student in Artificial Intelligence** at Friedrich-Alexander-Universität (FAU), Germany.
-* 🔬 Currently researching **3D Point Cloud Super-Resolution** (Graph Signal Processing & PyTorch).
-* ⚙️ Developing **PyCCAPT**, an end-to-end scientific software for instrument calibration in Atom Probe Tomography.
-* 💡 Passionate about transitioning complex mathematical models into clean, modular, production-ready code.
+I am a passionate AI researcher and developer with a strong foundation in Computer Engineering. I enjoy bridging the gap between theoretical machine learning and practical software engineering. Whether it's processing 3D point clouds, optimizing data pipelines, or fine-tuning NLP models, I love diving into complex data challenges and continuously expanding my technical toolkit.
+
+### 🚀 What I'm doing right now
+- ⚙️ Developing **PyCCAPT**, an end-to-end scientific software for instrument calibration and data analysis in Atom Probe Tomography (APT).
+- 🔬 Researching **3D Point Cloud Super-Resolution** using Graph Signal Processing and PyTorch to generate high-density 3D environments.
+
 ---
 
 ### 🛠️ Technologies & Tools
