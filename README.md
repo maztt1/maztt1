@@ -5,9 +5,8 @@
 I am a passionate AI researcher and developer with a strong foundation in Computer Engineering. I enjoy bridging the gap between theoretical machine learning and practical software engineering. Whether it's processing 3D point clouds, optimizing data pipelines, or fine-tuning NLP models, I love diving into complex data challenges and continuously expanding my technical toolkit.
 
 ### 🚀 What I'm doing right now
-- 🔬 Researching **3D Point Cloud Super-Resolution** using Graph Signal Processing and PyTorch.
-- ⚙️ Developing **PyCCAPT**, an end-to-end scientific software for instrument calibration.
-- 🌱 Actively learning and applying new AI architectures while building efficient, maintainable code.
+- ⚙️ Developing **PyCCAPT**, an end-to-end scientific software for instrument calibration and data analysis in Atom Probe Tomography (APT).
+- 🔬 Researching **3D Point Cloud Super-Resolution** using Graph Signal Processing and PyTorch to generate high-density 3D environments.
 
 ### 🛠️ My Tech Stack
 <p align="left">
@@ -24,7 +23,3 @@ I am a passionate AI researcher and developer with a strong foundation in Comput
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/mohamadahmadzadeh](https://www.linkedin.com/in/mohamadahmadzadeh)
 - **Email:** mohamad.ahmadzadeh@fau.de
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maztt1&show_icons=true&theme=radical" alt="Mohamad's GitHub Stats" />
-</p>
