@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/maztt1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2793E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohamad+Ahmadzadeh+👋;Master's+Student+in+AI+@+FAU;AI+Research+Assistant;Deep+Learning+%26+3D+Point+Clouds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2793E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohamad+Ahmadzadeh+👋;Master's+Student+in+AI+@+FAU;AI+Research+Assistant" alt="Typing SVG" />
   </a>
 </p>
 
-**Master's Student in Artificial Intelligence @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.linkedin.com/school/fau-erlangen-n%C3%BCrnberg/posts/?feedView=all) | AI Research Assistant**
+**Master's Student in Artificial Intelligence  [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.linkedin.com/school/fau-erlangen-n%C3%BCrnberg/posts/?feedView=all) | AI Research Assistant**
 
 I am an AI researcher and developer focused on bridging the gap between theoretical machine learning and practical software engineering. From processing 3D point clouds to fine-tuning NLP models, I love solving complex data challenges and building clean, scalable code.
 
