@@ -2,12 +2,12 @@
 
 **Master's Student in Artificial Intelligence @ FAU | AI Research Assistant**
 
-I specialize in Deep Learning, 3D Point Cloud Super-Resolution, and optimizing Python-based research architectures for real-world applications (like autonomous driving and Atom Probe Tomography). 
+I am a passionate AI researcher and developer with a strong foundation in Computer Engineering. I enjoy bridging the gap between theoretical machine learning and practical software engineering. Whether it's processing 3D point clouds, optimizing data pipelines, or fine-tuning NLP models, I love diving into complex data challenges and continuously expanding my technical toolkit.
 
 ### 🚀 What I'm doing right now
 - 🔬 Researching **3D Point Cloud Super-Resolution** using Graph Signal Processing and PyTorch.
 - ⚙️ Developing **PyCCAPT**, an end-to-end scientific software for instrument calibration.
-- 🧠 Transitioning complex mathematical models into clean, modular, production-ready code.
+- 🌱 Actively learning and applying new AI architectures while building efficient, maintainable code.
 
 ### 🛠️ My Tech Stack
 <p align="left">
