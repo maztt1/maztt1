@@ -4,14 +4,13 @@
   </a>
 </p>
 
-**Master's Student in Artificial Intelligence  [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.linkedin.com/school/fau-erlangen-n%C3%BCrnberg/posts/?feedView=all) | AI Research Assistant**
+**Master's Student in Artificial Intelligence @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.linkedin.com/school/fau-erlangen-n%C3%BCrnberg/posts/?feedView=all) | AI Research Assistant**
 
 I am an AI researcher and developer focused on bridging the gap between theoretical machine learning and practical software engineering. From processing 3D point clouds to fine-tuning NLP models, I love solving complex data challenges and building clean, scalable code.
 
 ### 🚀 What I'm doing right now
-- ⚙️ Developing **PyCCAPT**: End-to-end software for instrument calibration and data analysis in Atom Probe Tomography (APT).
-- 🔬 Researching **3D Point Cloud Super-Resolution**: Using Graph Signal Processing and PyTorch to generate high-density 3D environments.
----
+- ⚙️ Developing **[PyCCAPT](https://pyccapt.readthedocs.io/en/latest/)**: End-to-end software for instrument calibration and data analysis in Atom Probe Tomography (APT).
+- 🔬 Researching **3D Point Cloud Super-Resolution**: Using Graph Signal Processing and PyTorch to generate high-density 3D environments.---
 
 ### 🛠️ Technologies & Tools
 
