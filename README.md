@@ -26,5 +26,5 @@ I specialize in Deep Learning, 3D Point Cloud Super-Resolution, and optimizing P
 - **Email:** mohamad.ahmadzadeh@fau.de
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Mohamad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maztt1&show_icons=true&theme=radical" alt="Mohamad's GitHub Stats" />
 </p>
