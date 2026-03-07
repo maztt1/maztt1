@@ -10,7 +10,7 @@ I am an AI researcher and developer focused on bridging the gap between theoreti
 
 ### 🚀 What I'm doing right now
 - ⚙️ Developing **[PyCCAPT](https://pyccapt.readthedocs.io/en/latest/)**: End-to-end software for instrument calibration and data analysis in Atom Probe Tomography (APT).
-- 🔬 Researching **3D Point Cloud Super-Resolution**: Using Graph Signal Processing and PyTorch to generate high-density 3D environments.---
+- 🔬 Researching **3D Point Cloud Super-Resolution**: Using Graph Signal Processing and PyTorch to generate high-density 3D environments.
 
 ### 🛠️ Technologies & Tools
 
